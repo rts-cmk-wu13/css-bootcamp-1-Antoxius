@@ -1,6 +1,6 @@
 @font-face {
   font-family: "NotoSerifTodhri" sans-serif;
-  src: url(/fonts/NotoSerifTodhri-Regular.ttf);
+  src: url"(/fonts/NotoSerifTodhri-Regular.ttf)";
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 }
 
 .nav-left {
-    padding-right: 10rem;
+  padding-right: 10rem;
 }
 .nav-right {
   margin-left: 5rem;
