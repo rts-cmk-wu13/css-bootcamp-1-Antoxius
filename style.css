@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "NotoSerifTodhri" sans-serif;
+  src: url(/fonts/NotoSerifTodhri-Regular.ttf);
+}
+
+body {
+  background-color: hotpink;
+  font-family: "NotoSerifTodhri" sans-serif;
+}
+
+.nav-right > li:last-child {
+  color: greenyellow;
+}
+
+.login {
+  display: inline;
+}
+
+.nav-left {
+    padding-right: 10rem;
+}
+.nav-right {
+  margin-left: 5rem;
+  margin-top: -1rem;
+  margin-left: 5rem;
+}
